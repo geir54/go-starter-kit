@@ -23,12 +23,6 @@ a {
   color: inherit;
 }
 
-button, input, textarea {
-  border: none;
-  background: none;
-  outline: none;
-}
-
 html {
   font-family: Helvetica;
 }
