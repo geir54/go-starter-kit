@@ -1,5 +1,7 @@
 # go-starter-kit [![wercker status](https://app.wercker.com/status/cd5a782c425b1feb06844dcc701e528c/s/master "wercker status")](https://app.wercker.com/project/bykey/cd5a782c425b1feb06844dcc701e528c) [![Join the chat at https://gitter.im/olebedev/go-starter-kit](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000&style=plastic)](https://gitter.im/olebedev/go-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+**A fork of the original project with the goal of creating a more complete app. As of now react-bootstrap has been added and the todo example from [react.js](https://github.com/reactjs/redux/tree/master/examples/todos).**
+
 This project contains a quick starter kit for **Facebook React** Single Page Apps with **Golang** server side render and also with a set of useful features for rapid development of efficient applications.
 
 ## What it contains?
